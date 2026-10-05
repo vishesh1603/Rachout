@@ -2,6 +2,8 @@
 
 ReachOut is a self-contained local web application that automates personalized recruiter outreach. It evaluates your current resume against a job description, calculates a baseline ATS compatibility score with gap analysis, tailors an ATS-optimized 1-page PDF using ReportLab with full editing capabilities and 1-click PDF download, and sends the outreach email via Gmail SMTP—all using free tiers and modern tools.
 
+## demo link : https://rachout.onrender.com/
+
 ## Tech Stack
 - **Backend:** Python + Flask
 - **LLM SDK:** `google-genai` (Official modern Google GenAI SDK; model: `gemini-2.5-flash` / `gemini-2.0-flash` / `gemini-1.5-flash`)
